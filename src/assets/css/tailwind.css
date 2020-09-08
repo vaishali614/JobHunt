@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Poppins:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'App.css';
+@import 'JobSearch.css';
+@import 'JobCriteria.css';
+@import 'JobListing.css';
+@import 'Job.css';
+@import 'JobDetail.css';
+@import 'Pagination.css';
+
+html {
+  scroll-behavior: smooth;
+}
