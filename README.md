@@ -2,6 +2,7 @@
 Its a web application for job seekers and employers to search and view latest job opportunities at different locations using GitHub Jobs API.
 
 [JobHunt](https://job-hunt.netlify.app/#/)
+[GitHub Jobs API](https://jobs.github.com/api)
 
 ## How to run?
 - Open your terminal
